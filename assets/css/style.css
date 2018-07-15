@@ -1,0 +1,9 @@
+.btn, input {
+    margin: 5px;
+}
+
+.close-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
